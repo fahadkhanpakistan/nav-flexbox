@@ -95,11 +95,12 @@ footer {
 
 
 /*media*/
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
 
     .nav-flex {
         flex-flow: column;
         text-align: center;
+
     }
 
     .section-images {
